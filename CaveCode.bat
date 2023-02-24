@@ -20,83 +20,83 @@ call :ColorText B "  `Y88P' YP   YP    YP    Y88888P  `Y88P' Y88888P  `Y88P'  ~Y
 echo.
 echo.
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 set /p code=[CaveCloud] 
-cd C:\Users\07m\Desktop\code
+cd \Users\07m\Desktop\code
 echo Starting Code %code% ...
 start %code%.exe
 exit
